@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_powerup_multiball",
-    "path": "sprites/spr_powerup_multiball/spr_powerup_multiball.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

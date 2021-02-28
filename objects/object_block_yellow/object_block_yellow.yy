@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_block_lightblue",
-    "path": "sprites/spr_block_lightblue/spr_block_lightblue.yy",
+    "name": "spr_block_yellow",
+    "path": "sprites/spr_block_yellow/spr_block_yellow.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "blocks",
+    "path": "folders/Objects/blocks.yy",
   },
   "resourceVersion": "1.0",
   "name": "object_block_yellow",
