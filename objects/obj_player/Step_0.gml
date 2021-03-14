@@ -41,10 +41,10 @@ if (keyboard_check_pressed(vk_space) && global.isBallResting) {
 	var ball_id = instance_find(obj_ball, 0);
 	var ball_direction = DIRECTION_UP;
 	
-	if (keyboard_check(vk_left)) {
+	if (x + sprite_width/2  <= room_width/2) {
 		ball_direction = NORTH_WEST;	
 	}
-	if (keyboard_check(vk_right)) {
+	else {
 		ball_direction = NORTH_EAST;	
 	}
 	
