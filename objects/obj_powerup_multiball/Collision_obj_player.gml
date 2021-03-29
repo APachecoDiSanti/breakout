@@ -11,3 +11,5 @@ with(instance_create_layer(ball.x, ball.y, "Instances", obj_ball)) {
 with(instance_create_layer(ball.x, ball.y, "Instances", obj_ball)) {
 	motion_set(ball.direction * 0.9, BALL_SPEED);	
 }
+
+score += 15;
