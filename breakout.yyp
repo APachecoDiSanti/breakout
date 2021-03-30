@@ -9,6 +9,7 @@
     {"id":{"name":"spr_block_lightblue","path":"sprites/spr_block_lightblue/spr_block_lightblue.yy",},"order":1,},
     {"id":{"name":"object_block_powerup","path":"objects/object_block_powerup/object_block_powerup.yy",},"order":4,},
     {"id":{"name":"spr_block_yellow","path":"sprites/spr_block_yellow/spr_block_yellow.yy",},"order":4,},
+    {"id":{"name":"rm_gameOver","path":"rooms/rm_gameOver/rm_gameOver.yy",},"order":1,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":12,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":6,},
     {"id":{"name":"obj_powerup","path":"objects/obj_powerup/obj_powerup.yy",},"order":0,},
@@ -21,6 +22,7 @@
     {"id":{"name":"spr_powerup_multiball","path":"sprites/spr_powerup_multiball/spr_powerup_multiball.yy",},"order":0,},
     {"id":{"name":"spr_block_red","path":"sprites/spr_block_red/spr_block_red.yy",},"order":3,},
     {"id":{"name":"obj_border_side","path":"objects/obj_border_side/obj_border_side.yy",},"order":7,},
+    {"id":{"name":"fnt_gameOver","path":"fonts/fnt_gameOver/fnt_gameOver.yy",},"order":1,},
     {"id":{"name":"object_block_yellow","path":"objects/object_block_yellow/object_block_yellow.yy",},"order":5,},
     {"id":{"name":"obj_gui","path":"objects/obj_gui/obj_gui.yy",},"order":13,},
     {"id":{"name":"fnt_gui","path":"fonts/fnt_gui/fnt_gui.yy",},"order":0,},
@@ -44,6 +46,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},},
+    {"roomId":{"name":"rm_gameOver","path":"rooms/rm_gameOver/rm_gameOver.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

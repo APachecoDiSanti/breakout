@@ -9,7 +9,7 @@
 #macro SOUTH 270
 #macro SOUTH_EAST 315
 #macro EAST 0
-#macro BALL_SPEED 3
+#macro BALL_SPEED 3.5
 #macro BALL_INCREMENT 0.1
 #macro COLLISION_MARGIN 2
 #endregion

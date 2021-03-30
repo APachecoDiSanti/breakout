@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (instance_number(obj_ball) < 1) {
+if (instance_number(obj_ball) < 1 && room != rm_gameOver) {
 	lives--;
 	global.isBallResting = true;
 	
@@ -12,4 +12,8 @@ if (instance_number(obj_ball) < 1) {
 		"Instances",
 		obj_ball
 	);
+}
+
+if (lives < 0 && room != rm_gameOver) {
+	room_goto(rm_gameOver);
 }
