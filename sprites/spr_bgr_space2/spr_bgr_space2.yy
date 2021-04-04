@@ -103,12 +103,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5fd53635-a31a-44ae-93bd-f3077e8cf6be","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5fd53635-a31a-44ae-93bd-f3077e8cf6be","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},"LayerId":{"name":"f53e0182-44ad-48c4-a67c-cdde0d947721","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_bgr_space","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},"resourceVersion":"1.0","name":"5fd53635-a31a-44ae-93bd-f3077e8cf6be","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e64e6afe-0573-4556-ae15-fa6fc822d0b8","path":"sprites/spr_bgr_space2/spr_bgr_space2.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e64e6afe-0573-4556-ae15-fa6fc822d0b8","path":"sprites/spr_bgr_space2/spr_bgr_space2.yy",},"LayerId":{"name":"f1218690-532b-4b9a-95c3-53f6ef3e0b79","path":"sprites/spr_bgr_space2/spr_bgr_space2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_bgr_space2","path":"sprites/spr_bgr_space2/spr_bgr_space2.yy",},"resourceVersion":"1.0","name":"e64e6afe-0573-4556-ae15-fa6fc822d0b8","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_bgr_space","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},
+    "spriteId": {"name":"spr_bgr_space2","path":"sprites/spr_bgr_space2/spr_bgr_space2.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -120,7 +120,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7b02d302-1323-45d4-afc2-2760ca07ddaa","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5fd53635-a31a-44ae-93bd-f3077e8cf6be","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"dc92f430-66f7-4798-a8a9-6dde2962fcc9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e64e6afe-0573-4556-ae15-fa6fc822d0b8","path":"sprites/spr_bgr_space2/spr_bgr_space2.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -137,14 +137,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_bgr_space","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},
+    "parent": {"name":"spr_bgr_space2","path":"sprites/spr_bgr_space2/spr_bgr_space2.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_bgr_space",
+    "name": "spr_bgr_space2",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f53e0182-44ad-48c4-a67c-cdde0d947721","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f1218690-532b-4b9a-95c3-53f6ef3e0b79","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -152,7 +152,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_bgr_space",
+  "name": "spr_bgr_space2",
   "tags": [],
   "resourceType": "GMSprite",
 }

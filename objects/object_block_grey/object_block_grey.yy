@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_block_grey",
-    "path": "sprites/spr_block_grey/spr_block_grey.yy",
+    "name": "spr_block_green",
+    "path": "sprites/spr_block_green/spr_block_green.yy",
   },
   "solid": false,
   "visible": true,
