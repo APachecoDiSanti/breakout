@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"object_block_lightblue","path":"objects/object_block_lightblue/object_block_lightblue.yy",},"order":2,},
+    {"id":{"name":"object_block_purple","path":"objects/object_block_purple/object_block_purple.yy",},"order":2,},
     {"id":{"name":"spr_border_side","path":"sprites/spr_border_side/spr_border_side.yy",},"order":5,},
     {"id":{"name":"spr_block_powerup","path":"sprites/spr_block_powerup/spr_block_powerup.yy",},"order":2,},
     {"id":{"name":"object_block_red","path":"objects/object_block_red/object_block_red.yy",},"order":3,},
@@ -14,7 +14,8 @@
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":6,},
     {"id":{"name":"obj_powerup","path":"objects/obj_powerup/obj_powerup.yy",},"order":0,},
     {"id":{"name":"obj_powerup_multiball","path":"objects/obj_powerup_multiball/obj_powerup_multiball.yy",},"order":1,},
-    {"id":{"name":"object_block_grey","path":"objects/object_block_grey/object_block_grey.yy",},"order":1,},
+    {"id":{"name":"object_block_green","path":"objects/object_block_green/object_block_green.yy",},"order":1,},
+    {"id":{"name":"rm_debug","path":"rooms/rm_debug/rm_debug.yy",},"order":2,},
     {"id":{"name":"spr_bgr_space","path":"sprites/spr_bgr_space/spr_bgr_space.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":9,},
     {"id":{"name":"obj_border_top","path":"objects/obj_border_top/obj_border_top.yy",},"order":8,},
@@ -47,6 +48,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_lvl1","path":"rooms/rm_lvl1/rm_lvl1.yy",},},
+    {"roomId":{"name":"rm_debug","path":"rooms/rm_debug/rm_debug.yy",},},
     {"roomId":{"name":"rm_gameOver","path":"rooms/rm_gameOver/rm_gameOver.yy",},},
   ],
   "Folders": [
@@ -77,7 +79,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.2.556",
+    "IDEVersion": "2.3.2.560",
   },
   "resourceVersion": "1.4",
   "name": "breakout",

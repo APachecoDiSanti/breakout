@@ -31,7 +31,7 @@
     "path": "folders/Objects/blocks.yy",
   },
   "resourceVersion": "1.0",
-  "name": "object_block_grey",
+  "name": "object_block_green",
   "tags": [],
   "resourceType": "GMObject",
 }
